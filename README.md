@@ -28,10 +28,10 @@
 
 #### Top Repositories
 
-<a href="https://github.com/Coslblazer/github-readme-stats">
+<a href="https://github.com/Coslblazer/tor-services-2024">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coslblazer&repo=tor-services-2024&theme=vue-dark" />
 </a>
-<a href="https://github.com/Coslblazer/github-readme-stats">
+<a href="https://github.com/Coslblazer/Coslblazer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coslblazer&repo=Coslblazer&theme=vue-dark" />
 </a>
 
