@@ -1,3 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Coslblazer&label=Profile%20views&color=0e75b6&style=flate" alt="Coslblazer" /> </p>
+
+![logo](https://github.com/Coslblazer/Coslblazer/blob/main/Image.png)
+
 # <p align="center"> "Hello, I'm Coslblazer. I do open source!" </p>
 
 ## <p align="center"> I'm a passionate self-taught FrontEnd developer </p>
