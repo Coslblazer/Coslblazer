@@ -28,7 +28,7 @@
 
 #### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Coslblazer&show_icons=true&theme=vue-dark" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Coslblazer&show_icons=true&theme=dark&title_color=38b6ff&text_color=ffffff" alt="GitHub Stats">
 
 #### GitHub Streak
 
