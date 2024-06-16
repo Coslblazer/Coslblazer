@@ -28,11 +28,11 @@
 
 #### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Coslblazer&show_icons=true&theme=dark&title_color=38b6ff&text_color=ffffff" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Coslblazer&show_icons=true&theme=dark&title_color=38b6ff&text_color=ffffff&bg_color=000000" alt="GitHub Stats">
 
 #### GitHub Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Coslblazer&theme=dark&ring=38b6ff&fire=38b6ff&currStreakNum=ffffff&sideNums=38b6ff&currStreakLabel=ffffff&stroke=38b6ff&dates=38b6ff" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Coslblazer&theme=dark&ring=38b6ff&fire=38b6ff&currStreakNum=ffffff&sideNums=38b6ff&currStreakLabel=ffffff&stroke=38b6ff&dates=38b6ff&bg_color=000000" alt="GitHub Streak">
 
 #### Top Repositories
 
