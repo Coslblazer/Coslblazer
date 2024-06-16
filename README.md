@@ -32,9 +32,7 @@
 
 #### GitHub Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Coslblazer&theme=dark&ring=38b6ff&fire=38b6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38b6ff" alt="GitHub Streak">
-
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Coslblazer&theme=dark&ring=38b6ff&fire=38b6ff&currStreakNum=ffffff&sideNums=38b6ff&currStreakLabel=ffffff&stroke=38b6ff&dates=38b6ff" alt="GitHub Streak">
 
 #### Top Repositories
 
