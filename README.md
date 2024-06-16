@@ -40,6 +40,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coslblazer&repo=tor-services-2024&theme=vue-dark" />
 </a>
 <a href="https://github.com/Coslblazer/Coslblazer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coslblazer&repo=Coslblazer&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coslblazer&repo=Coslblazer&theme=friendly-blue" />
 </a>
 
