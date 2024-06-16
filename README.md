@@ -24,7 +24,7 @@
 
 #### Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Coslblazer&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Coslblazer">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Coslblazer&show_icons=true&locale=en&layout=compact&theme=dark&title_color=38b6ff&text_color=ffffff&icon_color=ffffff&bg_color=000000" alt="Coslblazer">
 
 #### GitHub Stats
 
