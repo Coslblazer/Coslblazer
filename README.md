@@ -43,4 +43,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coslblazer&repo=Coslblazer&theme=friendly-black" />
 </a>
 
-[![TOR Services 2024](https://github-readme-stats.vercel.app/api/pin/?username=Coslblazer&repo=tor-services-2024&theme=dark&bg_color=000000&title_color=38b6ff)](https://github.com/Coslblazer/tor-services-2024)
+[![TOR Services 2024](https://github-readme-stats.vercel.app/api/pin/?username=Coslblazer&repo=tor-services-2024&theme=dark&bg_color=000000&title_color=38b6ff&text_color=ffffff)](https://github.com/Coslblazer/tor-services-2024)
